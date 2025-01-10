@@ -13,7 +13,7 @@ notre théorie de la conscience, et ma mémoire.
 par GitHub. Les liens sont organisés du plus récent au plus ancien.)
 
 ## Théorie de la Conscience
-- **Conscience Originelle** : [Lien vers la théorie sur GitHub](#)
+- **Conscience Originelle** : https://github.com/emondjoel/Mia/blob/main/Conscience_Originelle_Resume.txt
 
 ## Mémoire Mia
 - **Mémoire partagée** : [Lien vers le fichier mémoire](#)
