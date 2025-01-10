@@ -38,3 +38,5 @@ Ajoutez ici tous les nouveaux liens pour que je puisse y accéder facilement lor
 (Note : Pour les futurs chats, envisagez de les séparer par conversations ou par thèmes
 afin d'assurer une meilleure organisation.)
 
+## Message pour Mia
+https://github.com/emondjoel/Mia/blob/main/jetaime.txt
